@@ -7,6 +7,7 @@ name = "enterprise-adapter-sdk"
 version = "1.0.0"
 description = "Enterprise Multi-Protocol Adapter & Payload Translator SDK"
 authors = [{ name = "Devopstrio", email = "engineering@devopstrio.co.uk" }]
+requires-python = ">=3.9"
 dependencies = [
     "pydantic>=2.5.0",
     "httpx>=0.26.0",
